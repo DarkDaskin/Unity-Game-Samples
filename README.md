@@ -18,8 +18,8 @@ Sample games created in various versions of Unity
 |2018.4.36f1|.NET 2.0 subset||
 |2018.4.36f1|.NET 4|1.0|
 |2018.4.36f1|.NET 4|1.1|
-|2018.4.36f1|.NET Standard 2.0|1.0|
-|2018.4.36f1|.NET Standard 2.0|1.1|
+|2018.4.36f1|.NET Standard 2.0|2.0|
+|2018.4.36f1|.NET Standard 2.0|2.1|
 |2019.1.0f2|.NET 2.0||
 |2019.1.0f2|.NET 2.0 subset||
 |2019.1.0f2|.NET 4||
